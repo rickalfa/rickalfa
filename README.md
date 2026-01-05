@@ -1,11 +1,10 @@
 
 
 
-**rickalfa/rickalfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rickalfa/rickalfa** 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m cur# ¡Hola! Soy Ricardo Betancourt 👋
+¡Hola! Soy Ricardo Betancourt 👋
 
 ### 🚀 Full Stack Developer apasionado por crear soluciones escalables y experiencias digitales únicas.
 
